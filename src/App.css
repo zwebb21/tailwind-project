@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #2a2c2f;
+
 }
 
 .App-logo {
@@ -35,4 +37,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.title{
+
+color:blue;
+
+}
+
+#welcome-card{
+margin: auto;
+width: 50%;
+
+}
+
+
+.main-1{
+
+margin-top: 12.2em;
+
 }
